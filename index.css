@@ -71,7 +71,7 @@ ul.menungang a{
     padding-bottom: 6px;
     padding-left: 6px;
     display: inline-block;
-    transition: 0.4s;
+    transition: 0.5s;
 }
 ul.menungang a:hover{
     background-color: #4682B4;

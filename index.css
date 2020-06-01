@@ -35,3 +35,45 @@ body{
 .textbox :hover{
     background-color:#4caf50;
 }
+
+
+ul.menungang{
+    list-style: none;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: segoe ui light;
+    
+}
+ul.menungang li{
+    display: inline;
+  
+}
+ul.menungang a{
+    border: 5px solid #708090;
+    border-radius: 20px;
+    background-color:#008080;
+    margin-left: 10px;
+}
+.menu{
+
+    height: 60px;
+
+}
+
+ul.menungang a{
+    text-decoration: none;
+    font-size: 30px;
+    color:white ;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    display: inline-block;
+    transition: 0.4s;
+}
+ul.menungang a:hover{
+    background-color: #4682B4;
+}
+
